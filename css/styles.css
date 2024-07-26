@@ -50,3 +50,15 @@ a {
 .list_item:first-child {
     margin-left: 0;
 }
+
+.list_item-link--active {
+    color: tomato;
+}
+
+.list_item-link:hover {
+    color: tomato;
+}
+
+.brand_button {
+    margin-left: auto;
+}
