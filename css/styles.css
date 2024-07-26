@@ -29,3 +29,15 @@ a {
     align-items: center;
     margin-bottom: 50px;
 }
+
+.brand {
+    display: flex;
+}
+
+.list {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    margin-left: 100px;
+    font-size: 18px;
+}
