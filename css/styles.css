@@ -62,3 +62,11 @@ a {
 .brand_button {
     margin-left: auto;
 }
+
+.main {
+    height: calc(100vh - 130px);
+    display: flex;
+    flex-direction: column;
+    max-width: 80%;
+    justify-content: center;
+}
