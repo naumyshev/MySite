@@ -104,3 +104,12 @@ a {
     background-color: white;
     color: black;
 }
+
+.button-red {
+    background-color: tomato;
+}
+
+.button-ghost {
+    background-color: transparent;
+    border: 1px solid white;
+}
