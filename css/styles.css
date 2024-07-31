@@ -88,3 +88,14 @@ a {
     width: 400px;
     margin-top: 60px;
 }
+
+.button {
+    height: 50px;
+    min-width: 140px;
+    border-radius: 8px;
+    border: 0;
+    font-size: 14px;
+    font-weight: bolder;
+    color: white;
+    cursor: pointer;
+}
