@@ -81,3 +81,10 @@ a {
     font-weight: bold;
     margin-top: 30px;
 }
+
+.footer_buttons {
+    display: inline-flex;
+    justify-content: space-between;
+    width: 400px;
+    margin-top: 60px;
+}
