@@ -99,3 +99,8 @@ a {
     color: white;
     cursor: pointer;
 }
+
+.button:hover {
+    background-color: white;
+    color: black;
+}
