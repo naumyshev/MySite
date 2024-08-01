@@ -126,3 +126,8 @@ a {
     transform: rotate(-45deg);
     user-select: none;
 }
+
+.about-me {
+    display: flex;
+    justify-content: space-between;
+}
