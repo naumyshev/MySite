@@ -136,4 +136,9 @@ a {
     font-size: 21px;
     line-height: 1.7;
     text-align: justify;
+    width: 60%;
+}
+
+.about-me__form-container {
+    width: 30px;
 }
