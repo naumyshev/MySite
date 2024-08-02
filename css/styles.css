@@ -148,3 +148,13 @@ a {
     flex-direction: column;
     margin-top: 20px;
 }
+
+.form__input {
+    height: 40px;
+    border: none;
+    outline: none;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    padding: 0 5px;
+    font-size: 14px;
+}
