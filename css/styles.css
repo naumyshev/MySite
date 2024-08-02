@@ -142,3 +142,9 @@ a {
 .about-me__form-container {
     width: 30px;
 }
+
+.form {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+}
