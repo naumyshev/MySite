@@ -116,7 +116,7 @@ a {
 
 .ghost-container {
     position: absolute;
-    font-size: 120px;
+    font-size: 90px;
     right: 0;
     z-index: -1;
 }
@@ -140,7 +140,7 @@ a {
 }
 
 .about-me__form-container {
-    width: 30px;
+    width: 30%;
 }
 
 .form {
@@ -157,4 +157,13 @@ a {
     margin-bottom: 20px;
     padding: 0 5px;
     font-size: 14px;
+}
+
+.form__textarea {
+    border: none;
+    outline: none;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    padding: 10px;
+    font-size: 18px;
 }
