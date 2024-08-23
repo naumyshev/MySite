@@ -191,7 +191,19 @@ a {
 }
 
 @media (max-width: 768px) {
-    flex-direction: column;
-    justify-content: center;
-    margin-top: 40px;
+    .header {
+        flex-direction: column;
+        justify-content: center;
+        margin-top: 40px;
+    }
+
+    .brand {
+        flex-direction: column;
+        text-align: center;
+    }
+    .list {
+        margin-left: 0;
+        font-size: 21px;
+        margin-top: 50px;
+    }
 }
