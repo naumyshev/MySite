@@ -189,3 +189,9 @@ a {
     border-radius: 8px;
     padding: 2px 5px;
 }
+
+@media (max-width: 768px) {
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 40px;
+}
